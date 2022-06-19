@@ -14,7 +14,7 @@
     </properties>
 
     <build>
-        <defaultGoal>deploy</defaultGoal>
+        <defaultGoal>clean</defaultGoal>
     </build>
 
 </project>
