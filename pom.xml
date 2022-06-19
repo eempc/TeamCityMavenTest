@@ -14,7 +14,7 @@
     </properties>
 
     <build>
-        <defaultGoal>clean</defaultGoal>
+        <defaultGoal>validate</defaultGoal>
     </build>
 
 </project>
